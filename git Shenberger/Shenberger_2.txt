@@ -1,0 +1,15 @@
+git config --global user.name
+git config --global user.email 
+git init 
+git add 
+git status 
+git commit -m 
+git log 
+git show 
+git diff 
+git rm 
+git checkout 
+git reser HEAD git commit --amend -m
+git revert HEAD
+git branch
+git merge
